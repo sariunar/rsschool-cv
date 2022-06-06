@@ -11,11 +11,12 @@ My goal is to start working and developing in the IT field. I would like to take
 *	C++
 *	Java
 ## Code examples
-public class Multiply {
+``` public class Multiply {
      public static Double multiply(Double a, Double b) {
      return a * b;
   }
 }
+```
 ## Experience
 *	2020-2021 VTB Bank
 ## Education
