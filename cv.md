@@ -19,6 +19,7 @@ My goal is to start working and developing in the IT field. I would like to take
 ```
 ## Experience
 *	2020-2021 VTB Bank
+*	2022 - roskazna
 ## Education
 *	East Siberian State Technological University - Software engineering.
 *	Far Eastern Federal University - Economist.
